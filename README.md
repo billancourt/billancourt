@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+:love_letter: ***SSAFY 11th***
+:collision: very new to Python
+:sparkling_heart: interested in financial modelling
+
 <!--
 **billancourt/billancourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

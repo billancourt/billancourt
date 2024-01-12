@@ -1,7 +1,7 @@
-### Hi there 👋
+### SSAFY 11th
 
-:love_letter: ***SSAFY 11th***
 :collision: very new to Python
+
 :sparkling_heart: interested in financial modelling
 
 <!--

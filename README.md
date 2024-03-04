@@ -2,7 +2,7 @@
 
 :collision: very new to Python
 
-:sparkling_heart: majored in business administraion
+:sparkling_heart: business major
 
 <!--
 **billancourt/billancourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
